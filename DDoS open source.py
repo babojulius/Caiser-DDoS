@@ -1,5 +1,6 @@
 #Only for legal purposes only!!!
 #Basic fast fun ddos tool for everyone
+#Discord Caiser#4435
 
 from ast import For, Return
 from   platform import system
